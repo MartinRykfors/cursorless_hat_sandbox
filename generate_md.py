@@ -18,7 +18,7 @@ entries = [
     ("stupa.svg", ["stupa", "stup"]),
     ("wave.svg", ["wave"]),
 ]
-sizes = [200, 10, 9, 6]
+sizes = [200] + list(reversed(range(5, 11)))
 
 
 def write_entry(f, entry):
