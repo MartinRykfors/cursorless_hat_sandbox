@@ -7,13 +7,12 @@ entries = [
     ("church.svg", ["church", "mosque"]),
     ("fang.svg", ["fang", "tooth"]),
     ("fez.svg", ["fez"]),
-    ("flake.svg", ["flake"]),
-    ("gem.svg", ["gem"]),
+    ("flake.svg", ["flake", "snow"]),
     ("horn.svg", ["horn", "claw"]),
     ("knight.svg", ["knight", "horse"]),
     ("moon.svg", ["moon"]),
     ("rook.svg", ["rook"]),
-    ("shield.svg", ["shield", "badge"]),
+    ("tree.svg", ["tree"]),
     ("shroom.svg", ["shroom"]),
     ("stair.svg", ["stair"]),
     ("stupa.svg", ["stupa", "stup"]),
@@ -51,7 +50,9 @@ def generate_html():
     with a.body():
         with a.div(style=style({"display": "flex", "flex-wrap": "wrap"})):
             for entry in entries:
-                with a.div(style=style({"border": "2px solid black", 'padding': '10px'})):
+                with a.div(
+                    style=style({"border": "2px solid black", "padding": "10px"})
+                ):
                     with a.div(style=style({})):
                         with a.div():
                             with a.tt(style=style({"font-size": "1.5em"})):
@@ -75,7 +76,11 @@ def generate_html():
                             for size in sizes[1:]:
                                 a.img(
                                     style=style(
-                                        {"width": f"{size}px", "height": f"{size}px"},
+                                        {
+                                            "object-fit": "contain",
+                                            "width": "100%",
+                                            "height": f"{size}px",
+                                        },
                                     ),
                                     src=f"svgs/{entry[0]}",
                                 )

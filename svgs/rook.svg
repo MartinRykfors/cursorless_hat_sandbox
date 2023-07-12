@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="40mm"
+   width="60mm"
    height="40mm"
-   viewBox="0 0 40 40"
+   viewBox="0 0 60 40"
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -37,14 +37,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.3866667"
-     inkscape:cx="75.590551"
-     inkscape:cy="75.590551"
+     inkscape:zoom="6.7733334"
+     inkscape:cx="116.1784"
+     inkscape:cy="99.195267"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="3768"
-     inkscape:window-height="2096"
+     inkscape:window-width="2488"
+     inkscape:window-height="1376"
      inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
@@ -66,12 +66,12 @@
      id="layer1">
     <path
        style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 86.233771,250.22783 H 67.983344 v -5.63026 l 7.07549,-4.62878 1.317481,-13.37765 -7.690982,-3.05584 -0.02339,-8.85432 h 5.752574 l 0.02339,4.56028 h 7.156142 l -0.02339,-4.56028 h 4.677217 4.677217 l -0.02339,4.56028 h 7.156142 l 0.02339,-4.56028 h 5.752575 l -0.0234,8.85432 -7.690983,3.05584 1.317481,13.37765 7.075492,4.62878 v 5.63026 H 86.261981"
+       d="M 86.233771,250.22783 H 67.983344 v -5.63026 l 7.07549,-4.62878 1.288238,-9.37776 -7.690982,-3.05584 0.0059,-12.85421 h 4.11495 l 0.02339,4.56028 h 9.758794 l -0.02339,-4.56028 h 3.712142 3.712142 l -0.02339,4.56028 h 9.758794 l 0.02339,-4.56028 h 4.114948 l 0.006,12.85421 -7.69098,3.05584 1.288238,9.37776 7.075492,4.62878 v 5.63026 H 86.261981"
        id="path4765"
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect4767"
-       inkscape:original-d="M 86.233771,250.22783 H 67.983344 v -5.63026 l 7.07549,-4.62878 1.317481,-13.37765 -7.690982,-3.05584 -0.02339,-8.85432 h 5.752574 l 0.02339,4.56028 h 7.156142 l -0.02339,-4.56028 h 4.677217"
+       inkscape:original-d="M 86.233771,250.22783 H 67.983344 v -5.63026 l 7.07549,-4.62878 1.288238,-9.37776 -7.690982,-3.05584 0.0059,-12.85421 4.11495,0 0.02339,4.56028 9.758794,0 -0.02339,-4.56028 h 3.712189"
        sodipodi:nodetypes="cccccccccccc"
-       transform="translate(-66.247876,-211.67316)" />
+       transform="matrix(1.3357771,0,0,1.123077,-85.168879,-240.98608)" />
   </g>
 </svg>

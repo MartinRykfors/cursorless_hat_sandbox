@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="40mm"
+   width="60mm"
    height="40mm"
-   viewBox="0 0 40 40"
+   viewBox="0 0 60 40"
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -43,8 +43,8 @@
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="3768"
-     inkscape:window-height="2096"
+     inkscape:window-width="2488"
+     inkscape:window-height="1376"
      inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
@@ -65,13 +65,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       transform="translate(-18.419925,-213.13205)"
+       transform="matrix(1.5694423,0,0,1.0672847,-30.497186,-229.24044)"
        style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 38.576175,252.17857 -18.902804,-5e-5 c 0.100883,-10.36445 1.558052,-16.19885 12.30882,-19.12012 0.756881,-6.19407 4.519701,-14.9522 6.593984,-18.03537 2.074283,3.08317 5.837103,11.8413 6.593984,18.03537 10.750768,2.92127 12.207937,8.75567 12.30882,19.12012 z"
+       d="m 38.576175,252.17857 -18.902804,-5e-5 c 0.100883,-10.36445 3.997215,-16.27205 14.747983,-19.19332 0.756803,-6.19344 2.125161,-14.87857 4.154821,-17.96124 2.02966,3.08267 3.398018,11.7678 4.154821,17.96124 10.750768,2.92127 14.6471,8.82887 14.747983,19.19332 z"
        id="path4757"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
        inkscape:path-effect="#path-effect4761"
-       inkscape:original-d="m 39.072269,252.17857 -19.398898,-5e-5 c 0.100883,-10.36445 1.558052,-16.19885 12.30882,-19.12012 0.763945,-6.25188 4.590204,-15.11591 6.65162,-18.12021" />
+       inkscape:original-d="m 39.072269,252.17857 -19.398898,-5e-5 c 0.100883,-10.36445 3.997215,-16.27205 14.747983,-19.19332 0.763945,-6.25188 2.151041,-15.04271 4.212457,-18.04701" />
   </g>
 </svg>

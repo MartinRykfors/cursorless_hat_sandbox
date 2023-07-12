@@ -53,17 +53,6 @@
 <img src="svgs/flake.svg" width=5 height=5/>
 
 
-# `gem`
-
-<img src="svgs/gem.svg" width=200 height=200/>
-<img src="svgs/gem.svg" width=10 height=10/>
-<img src="svgs/gem.svg" width=9 height=9/>
-<img src="svgs/gem.svg" width=8 height=8/>
-<img src="svgs/gem.svg" width=7 height=7/>
-<img src="svgs/gem.svg" width=6 height=6/>
-<img src="svgs/gem.svg" width=5 height=5/>
-
-
 # `horn, claw`
 
 <img src="svgs/horn.svg" width=200 height=200/>
@@ -108,15 +97,15 @@
 <img src="svgs/rook.svg" width=5 height=5/>
 
 
-# `shield, badge`
+# `tree`
 
-<img src="svgs/shield.svg" width=200 height=200/>
-<img src="svgs/shield.svg" width=10 height=10/>
-<img src="svgs/shield.svg" width=9 height=9/>
-<img src="svgs/shield.svg" width=8 height=8/>
-<img src="svgs/shield.svg" width=7 height=7/>
-<img src="svgs/shield.svg" width=6 height=6/>
-<img src="svgs/shield.svg" width=5 height=5/>
+<img src="svgs/tree.svg" width=200 height=200/>
+<img src="svgs/tree.svg" width=10 height=10/>
+<img src="svgs/tree.svg" width=9 height=9/>
+<img src="svgs/tree.svg" width=8 height=8/>
+<img src="svgs/tree.svg" width=7 height=7/>
+<img src="svgs/tree.svg" width=6 height=6/>
+<img src="svgs/tree.svg" width=5 height=5/>
 
 
 # `shroom`

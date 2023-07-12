@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="40mm"
+   width="60mm"
    height="40mm"
-   viewBox="0 0 40 40"
+   viewBox="0 0 60 40"
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -31,8 +31,8 @@
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="3768"
-     inkscape:window-height="2096"
+     inkscape:window-width="2488"
+     inkscape:window-height="1376"
      inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
@@ -53,10 +53,10 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 38.275486,1.848575 c -0.539171,3.548851 -0.8031,9.964851 -5.34216,17.41354 -4.191352,6.87808 -12.726141,16.224619 -25.534701,18.889309 4.8441,-10.833109 6.06992,-25.396379 -5.36161,-36.161109"
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35429123px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 59.756674,0.05169991 C 53.951655,11.28034 47.26935,2.2101181 39.834525,10.36412 32.969234,17.893483 28.52079,33.90629 7.3064332,39.870174 8.9689801,31.596979 15.755086,19.65528 12.746447,10.98701 10.664547,4.9887911 4.2146523,8.4426296 0.08679946,0.05061121"
        id="path956-6"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscc" />
+       sodipodi:nodetypes="cscsc" />
   </g>
 </svg>
