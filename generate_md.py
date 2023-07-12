@@ -64,7 +64,7 @@ def generate_html():
                                 a(", ".join(entry[1]))
                         a.img(
                             style=style(
-                                {"width": f"{sizes[0]}px", "height": f"{sizes[0]}px"},
+                                {"height": f"{sizes[0]}px"},
                             ),
                             src=f"svgs/{entry[0]}",
                         )
