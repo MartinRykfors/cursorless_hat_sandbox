@@ -17,6 +17,7 @@ entries = [
     ("stair.svg", ["stair"]),
     ("stupa.svg", ["stupa", "stup"]),
     ("wave.svg", ["wave"]),
+    ("leaf.svg", ["leaf", "maple"]),
 ]
 sizes = [200] + list(reversed(range(5, 11)))
 

@@ -42,7 +42,7 @@
 <img src="svgs/fez.svg" width=5 height=5/>
 
 
-# `flake`
+# `flake, snow`
 
 <img src="svgs/flake.svg" width=200 height=200/>
 <img src="svgs/flake.svg" width=10 height=10/>
@@ -150,5 +150,16 @@
 <img src="svgs/wave.svg" width=7 height=7/>
 <img src="svgs/wave.svg" width=6 height=6/>
 <img src="svgs/wave.svg" width=5 height=5/>
+
+
+# `leaf, maple`
+
+<img src="svgs/leaf.svg" width=200 height=200/>
+<img src="svgs/leaf.svg" width=10 height=10/>
+<img src="svgs/leaf.svg" width=9 height=9/>
+<img src="svgs/leaf.svg" width=8 height=8/>
+<img src="svgs/leaf.svg" width=7 height=7/>
+<img src="svgs/leaf.svg" width=6 height=6/>
+<img src="svgs/leaf.svg" width=5 height=5/>
 
 
