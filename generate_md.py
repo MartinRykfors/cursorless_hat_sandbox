@@ -3,22 +3,25 @@ import airium
 
 
 entries = [
-    ("bridge.svg", ["bridge"]),
     ("church.svg", ["church"]),
     ("mosque.svg", ["mosque"]),
-    ("fang.svg", ["fang", "tooth"]),
+    ("stupa.svg", ["stupa", "stup"]),
+    ("bridge.svg", ["bridge"]),
     ("fez.svg", ["fez"]),
+    ("pail.svg", ["pail", "vase"]),
     ("flake.svg", ["flake", "snow"]),
     ("horn.svg", ["horn", "claw"]),
-    ("knight.svg", ["knight", "horse"]),
     ("moon.svg", ["moon"]),
-    ("rook.svg", ["rook"]),
     ("tree.svg", ["tree"]),
     ("shroom.svg", ["shroom"]),
     ("stair.svg", ["stair"]),
-    ("stupa.svg", ["stupa", "stup"]),
+    ("fang.svg", ["fang", "tooth", "keel"]),
     ("wave.svg", ["wave"]),
     ("leaf.svg", ["leaf", "maple"]),
+    ("rook.svg", ["rook"]),
+    ("knight.svg", ["knight", "horse"]),
+    ("pawn.svg", ["pawn"]),
+    ("meeple.svg", ["meeple", "dude", "gal", "guy"]),
 ]
 sizes = [200] + list(reversed(range(5, 11)))
 
