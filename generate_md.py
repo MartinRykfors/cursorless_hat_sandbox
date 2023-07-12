@@ -1,4 +1,5 @@
 import os.path
+import airium
 
 
 entries = [
@@ -29,13 +30,62 @@ def write_entry(f, entry):
     f.write(f"\n\n")
 
 
-def main():
+def generate_md():
     output_file = os.path.join(os.path.dirname(__file__), "preview.md")
-    print(output_file)
 
     with open(output_file, "w", encoding="utf-8") as f:
         for entry in entries:
             write_entry(f, entry)
+
+
+def style(kvs):
+    return ";".join([f"{k}:{v}" for k, v in kvs.items()])
+
+
+def generate_html():
+    output_file = os.path.join(os.path.dirname(__file__), "preview.html")
+    a = airium.Airium()
+    a("<!DOCTYPE html>")
+    with a.head():
+        a.meta(charset="utf-8")
+    with a.body():
+        with a.div(style=style({"display": "flex", "flex-wrap": "wrap"})):
+            for entry in entries:
+                with a.div(style=style({"border": "2px solid black", 'padding': '10px'})):
+                    with a.div(style=style({})):
+                        with a.div():
+                            with a.tt(style=style({"font-size": "1.5em"})):
+                                a(", ".join(entry[1]))
+                        a.img(
+                            style=style(
+                                {"width": f"{sizes[0]}px", "height": f"{sizes[0]}px"},
+                            ),
+                            src=f"svgs/{entry[0]}",
+                        )
+                        with a.div(
+                            style=style(
+                                {
+                                    "display": "flex",
+                                    "margin": "10px",
+                                    "margin-top": "30px",
+                                    "justify-content": "space-between",
+                                }
+                            )
+                        ):
+                            for size in sizes[1:]:
+                                a.img(
+                                    style=style(
+                                        {"width": f"{size}px", "height": f"{size}px"},
+                                    ),
+                                    src=f"svgs/{entry[0]}",
+                                )
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write(str(a))
+
+
+def main():
+    generate_md()
+    generate_html()
 
 
 if __name__ == "__main__":
