@@ -86,7 +86,7 @@
 <img src="svgs/horn.svg" width=5 height=5/>
 
 
-# `moon`
+# `moon, lune, luna`
 
 <img src="svgs/moon.svg" width=200 height=200/>
 <img src="svgs/moon.svg" width=10 height=10/>
@@ -205,5 +205,16 @@
 <img src="svgs/meeple.svg" width=7 height=7/>
 <img src="svgs/meeple.svg" width=6 height=6/>
 <img src="svgs/meeple.svg" width=5 height=5/>
+
+
+# `singer`
+
+<img src="svgs/singer.svg" width=200 height=200/>
+<img src="svgs/singer.svg" width=10 height=10/>
+<img src="svgs/singer.svg" width=9 height=9/>
+<img src="svgs/singer.svg" width=8 height=8/>
+<img src="svgs/singer.svg" width=7 height=7/>
+<img src="svgs/singer.svg" width=6 height=6/>
+<img src="svgs/singer.svg" width=5 height=5/>
 
 
