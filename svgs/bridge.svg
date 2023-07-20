@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="60mm"
    height="40mm"
    viewBox="0 0 60 40"
    version="1.1"
    id="SVGRoot"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="bridge.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="bridge.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs5010">
     <inkscape:path-effect
@@ -38,16 +38,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.78947"
-     inkscape:cx="131.90514"
-     inkscape:cy="84.524395"
+     inkscape:cx="131.85175"
+     inkscape:cy="84.456109"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2488"
-     inkscape:window-height="1376"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="2530"
+     inkscape:window-height="1313"
+     inkscape:window-x="10"
+     inkscape:window-y="64"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5013">
     <rdf:RDF>
@@ -56,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,12 +66,12 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 49.678072,230.20557 C 40.037185,230.08404 35.582106,222.8163 34.357698,217.9888 l -3.211562,-0.0234 c -1.341122,11.12836 -7.202764,12.00139 -11.486144,12.62152 l 0.01839,8.75579 9.363288,0.0331 -0.959115,14.82786 h 9.734334 l -1.289844,-14.894 13.151027,0.002 13.151027,-0.002 -1.289844,14.894 h 9.734334 l -0.959115,-14.82786 9.363288,-0.0331 0.01839,-8.75579 C 75.412772,229.96679 69.55113,229.09376 68.210008,217.9654 l -3.211562,0.0234 c -1.224408,4.8275 -5.679487,12.09524 -15.320374,12.21677 z"
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 49.678072,230.20553 C 40.151807,230.08264 39.182053,222.81584 37.957764,217.9888 l -9.067165,-0.0234 c -1.341122,11.12836 -4.947227,12.00139 -9.230607,12.62152 l 0.01839,12.18447 8.265224,0.0331 -0.959115,11.39918 h 12.927572 l -1.289844,-11.46532 11.055853,0.002 11.055853,-0.002 -1.289844,11.46532 h 12.927572 l -0.959115,-11.39918 8.265224,-0.0331 0.01839,-12.18447 c -4.28338,-0.62013 -7.889485,-1.49316 -9.230607,-12.62152 l -9.067165,0.0234 c -1.224289,4.82704 -2.194043,12.09384 -11.720308,12.21673 z"
        id="path4713"
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect4715"
-       inkscape:original-d="m 50.154749,230.20576 c -9.971134,0.1164 -14.55264,-7.31059 -15.797051,-12.21696 l -3.211562,-0.0234 c -1.341122,11.12836 -7.202764,12.00139 -11.486144,12.62152 l 0.01839,8.75579 9.363288,0.0331 -0.959115,14.82786 h 9.734334 l -1.289844,-14.894 13.606139,0.002"
+       inkscape:original-d="m 50.154749,230.20576 c -9.971134,0.1164 -10.952574,-7.31059 -12.196985,-12.21696 l -9.067165,-0.0234 c -1.341122,11.12836 -4.947227,12.00139 -9.230607,12.62152 l 0.01839,12.18447 8.265224,0.0331 -0.959115,11.39918 h 12.927572 l -1.289844,-11.46532 11.510965,0.002"
        sodipodi:nodetypes="cccccccccc"
        transform="matrix(1,0,0,1.1051857,-19.656258,-240.81151)" />
   </g>

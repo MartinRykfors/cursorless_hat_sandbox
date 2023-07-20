@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="60mm"
    height="40mm"
    viewBox="0 0 60 40"
    version="1.1"
    id="SVGRoot"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="fez.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="fez.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4897">
     <inkscape:path-effect
@@ -38,16 +38,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.3866667"
-     inkscape:cx="25.688977"
-     inkscape:cy="75.590551"
+     inkscape:cx="205.0689"
+     inkscape:cy="74.557086"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2488"
-     inkscape:window-height="1376"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="2530"
+     inkscape:window-height="1313"
+     inkscape:window-x="10"
+     inkscape:window-y="64"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata4900">
     <rdf:RDF>
@@ -56,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,11 +67,11 @@
      id="layer1">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M -6.4849454,37.230654 7.5976451,2.4568455 l 12.0123009,0.00698 12.012301,-0.00698 14.08259,34.7738085"
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -6.4849454,37.230654 10.73005,2.4568455 l 8.879896,0.00688 8.879896,-0.00688 17.214995,34.7738085"
        id="path223"
        inkscape:path-effect="#path-effect6328"
-       inkscape:original-d="M -6.4849454,37.230654 7.5976451,2.4568455 l 12.5586049,0.0073 7.94923,-0.0073 10.488841,34.7738085"
+       inkscape:original-d="M -6.4849454,37.230654 10.73005,2.4568455 l 9.4262,0.0073 7.94923,-0.0073 10.488841,34.7738085"
        transform="matrix(1,0,0,1.1505264,10.3125,-2.6354451)"
        sodipodi:nodetypes="ccccc" />
   </g>

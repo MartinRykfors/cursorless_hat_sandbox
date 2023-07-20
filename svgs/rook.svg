@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="60mm"
    height="40mm"
    viewBox="0 0 60 40"
    version="1.1"
    id="SVGRoot"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="rook.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="rook.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs5447">
     <inkscape:path-effect
@@ -37,17 +37,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.7733334"
-     inkscape:cx="116.1784"
-     inkscape:cy="99.195267"
+     inkscape:zoom="3.3866667"
+     inkscape:cx="112.64764"
+     inkscape:cy="107.62795"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2488"
-     inkscape:window-height="1376"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="2530"
+     inkscape:window-height="1313"
+     inkscape:window-x="10"
+     inkscape:window-y="64"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5450">
     <rdf:RDF>
@@ -56,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,12 +66,12 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 86.233771,250.22783 H 67.983344 v -5.63026 l 7.07549,-4.62878 1.288238,-9.37776 -7.690982,-3.05584 0.0059,-12.85421 h 4.11495 l 0.02339,4.56028 h 9.758794 l -0.02339,-4.56028 h 3.712142 3.712142 l -0.02339,4.56028 h 9.758794 l 0.02339,-4.56028 h 4.114948 l 0.006,12.85421 -7.69098,3.05584 1.288238,9.37776 7.075492,4.62878 v 5.63026 H 86.261981"
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.233771,250.22783 h -19.63204 v -3.67844 l 9.682108,-4.62878 0.06323,-9.31089 -9.466337,-3.05584 0.0059,-14.8729 H 73.9168 l 0.02339,7.94008 h 8.118264 l -0.02339,-7.94008 h 4.212812 4.212812 l -0.02339,7.94008 h 8.118264 l 0.02339,-7.94008 h 7.030168 l 0.006,14.8729 -9.466337,3.05584 0.06323,9.31089 9.682107,4.62878 v 3.67844 H 86.261981"
        id="path4765"
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect4767"
-       inkscape:original-d="M 86.233771,250.22783 H 67.983344 v -5.63026 l 7.07549,-4.62878 1.288238,-9.37776 -7.690982,-3.05584 0.0059,-12.85421 4.11495,0 0.02339,4.56028 9.758794,0 -0.02339,-4.56028 h 3.712189"
+       inkscape:original-d="m 86.233771,250.22783 h -19.63204 v -3.67844 l 9.682108,-4.62878 0.06323,-9.31089 -9.466337,-3.05584 0.0059,-14.8729 H 73.9168 l 0.02339,7.94008 h 8.118264 l -0.02339,-7.94008 h 4.212859"
        sodipodi:nodetypes="cccccccccccc"
        transform="matrix(1.3357771,0,0,1.123077,-85.168879,-240.98608)" />
   </g>

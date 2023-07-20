@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="60mm"
    height="40mm"
    viewBox="0 0 60 40"
    version="1.1"
    id="SVGRoot"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="mosque.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="mosque.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs5344">
     <inkscape:path-effect
@@ -71,16 +71,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.78947"
-     inkscape:cx="127.08693"
-     inkscape:cy="70.180913"
+     inkscape:cx="64.620929"
+     inkscape:cy="105.33525"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2488"
-     inkscape:window-height="1376"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="2530"
+     inkscape:window-height="1313"
+     inkscape:window-x="10"
+     inkscape:window-y="64"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5347">
     <rdf:RDF>
@@ -89,7 +90,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -98,12 +99,12 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 29.389125,37.458835 H 0.55242716 L 0.66678557,6.8471987 5.2380697,0.26614301 9.2322609,6.6334002 V 22.985244 l 4.6114411,-0.05166 -0.104373,-5.288956 C 15.91743,14.406693 18.427316,9.3744129 29.389125,8.6952551 40.350934,9.3744129 42.86082,14.406693 45.038921,17.644628 l -0.104373,5.288956 4.611441,0.05166 V 6.6334002 L 53.54018,0.26614301 58.111464,6.8471987 58.225823,37.458835 Z"
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 29.389125,37.458835 H 2.0081075 L 2.1224659,6.8471987 7.4674652,0.26614301 12.8792,6.6334002 V 22.985244 l 3.155761,-0.05166 -0.104373,-5.288956 c 2.178101,-3.237935 2.498086,-8.2702149 13.458537,-8.9493728 10.960451,0.6791579 11.280436,5.7114378 13.458537,8.9493728 l -0.104373,5.288956 3.155761,0.05166 V 6.6334002 l 5.411735,-6.36725719 5.344999,6.58105569 0.114358,30.6116363 z"
        id="path7531"
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect7533"
-       inkscape:original-d="M 29.389125,37.458835 H 0.55242716 L 0.66678557,6.8471987 5.2380697,0.26614301 9.2322609,6.6334002 V 22.985244 l 4.6114411,-0.05166 -0.104373,-5.288956 C 15.918105,14.40569 18.428872,9.3712939 29.399318,8.694625"
+       inkscape:original-d="M 29.389125,37.458835 H 2.0081075 L 2.1224659,6.8471987 7.4674652,0.26614301 12.8792,6.6334002 V 22.985244 l 3.155761,-0.05166 -0.104373,-5.288956 c 2.178776,-3.238938 2.498284,-8.2733341 13.46873,-8.950003"
        sodipodi:nodetypes="ccccccccc"
        transform="matrix(1.0383141,0,0,1.0694239,-0.57359296,-0.11461741)" />
   </g>
