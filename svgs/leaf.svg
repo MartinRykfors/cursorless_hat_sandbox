@@ -20,15 +20,32 @@
      id="defs5344">
     <inkscape:path-effect
        effect="mirror_symmetry"
-       start_point="30.061805,3.4195542"
+       start_point="28.843068,0.30297516"
+       end_point="28.843068,38.795536"
+       center_point="28.843068,19.549256"
+       id="path-effect10106"
+       is_visible="true"
+       lpeversion="1.1"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="true"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="30.045136,4.0979325"
        end_point="30.052039,32.680338"
-       center_point="30.056922,18.049946"
+       center_point="30.048587,18.389135"
        id="path-effect7510"
        is_visible="true"
        mode="free"
        discard_orig_path="false"
        fuse_paths="true"
-       oposite_fuse="false" />
+       oposite_fuse="false"
+       lpeversion="0"
+       split_items="false"
+       split_open="false" />
     <inkscape:path-effect
        effect="copy_rotate"
        starting_point="23.969772,22.281551"
@@ -60,8 +77,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.78947"
-     inkscape:cx="77.983576"
-     inkscape:cy="114.73086"
+     inkscape:cx="137.9067"
+     inkscape:cy="74.642915"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -70,7 +87,8 @@
      inkscape:window-x="10"
      inkscape:window-y="64"
      inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     showguides="false" />
   <metadata
      id="metadata5347">
     <rdf:RDF>
@@ -89,12 +107,11 @@
      id="layer1">
     <path
        style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 30.05278,30.459512 -1.360245,0.05462 0.110485,-4.690034 -8.205929,4.066405 0.910403,-1.622723 -6.480285,-1.647454 3.506773,-4.178383 -3.242854,-4.002565 3.67309,0.186437 -0.06405,-2.512177 7.285155,1.955302 -2.970432,-13.2022724 3.865221,2.5140478 2.981583,-3.6317886 2.979158,3.633778 3.866899,-2.5114671 -2.979245,13.2002863 7.286459,-1.950438 -0.06573,2.512133 3.673214,-0.183985 -3.245525,4.0004 3.503983,4.180723 -6.481383,1.643128 0.909319,1.62333 -8.203213,-4.071882 0.107355,4.690107 z"
-       id="path7508"
-       inkscape:connector-curvature="0"
-       inkscape:path-effect="#path-effect7510"
-       inkscape:original-d="m 30.259199,30.451223 -1.566664,0.06291 0.110485,-4.690034 -8.205929,4.066405 0.910403,-1.622723 -6.480285,-1.647454 3.506773,-4.178383 -3.242854,-4.002565 3.67309,0.186437 -0.06405,-2.512177 7.285155,1.955302 -2.970432,-13.2022724 3.865221,2.5140478 3.105236,-3.782407"
-       sodipodi:nodetypes="cccccccccccccc"
-       transform="matrix(1.9802674,0,0,1.5066784,-29.46368,-5.8973214)" />
+       d="m 22.58437,39.999152 -6.277034,0.162039 c 1.612685,-6.674019 7.540841,-4.380394 9.96641,-8.601306 1.905456,-3.315827 0.382169,-7.2133 -3.321499,-4.875793 -5.413769,5.05953 -9.791558,7.25769 -14.8170402,1.919449 C 4.5695589,24.815985 7.5118508,16.659492 14.005749,10.762547 21.043909,4.3713733 26.442515,2.7702841 28.843068,0.29179333 31.243621,2.7702841 36.642227,4.3713733 43.680387,10.762547 c 6.493898,5.896945 9.43619,14.053438 5.870542,17.840994 -5.025482,5.338241 -9.403271,3.140081 -14.81704,-1.919449 -3.703668,-2.337507 -5.226955,1.559966 -3.321499,4.875793 2.425569,4.220912 8.353725,1.927287 9.96641,8.601306 l -6.277034,-0.162039"
+       id="path9781"
+       sodipodi:nodetypes="ccscssc"
+       inkscape:path-effect="#path-effect10106"
+       inkscape:original-d="m 22.58437,39.999152 -6.277034,0.162039 c 1.612685,-6.674019 7.540841,-4.380394 9.96641,-8.601306 1.905456,-3.315827 0.382169,-7.2133 -3.321499,-4.875793 -5.413769,5.05953 -9.791558,7.25769 -14.8170402,1.919449 C 4.5695589,24.815985 7.5118508,16.659492 14.005749,10.762547 21.211529,4.2191619 26.69873,2.6967383 29.009462,0.11314154"
+       transform="matrix(1.0405987,0,0,1,-0.00490382,0)" />
   </g>
 </svg>

@@ -15,7 +15,7 @@ entries = [
     ("stair.svg", ["stair"]),
     ("fang.svg", ["fang", "tooth", "keel"]),
     ("wave.svg", ["wave"]),
-    ("leaf.svg", ["leaf", "maple"]),
+    ("leaf.svg", ["leaf", "spade"]),
     ("rook.svg", ["rook"]),
     ("knight.svg", ["knight", "horse"]),
     ("meeple.svg", ["meeple", "dude", "gal", "guy"]),
