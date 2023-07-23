@@ -9,10 +9,8 @@ entries = [
     ("bridge.svg", ["bridge"]),
     ("fez.svg", ["fez"]),
     ("pail.svg", ["pail", "vase"]),
-    ("flake.svg", ["flake", "snow"]),
     ("horn.svg", ["horn", "claw"]),
     ("moon.svg", ["moon", "lune", "luna"]),
-    ("tree.svg", ["tree"]),
     ("shroom.svg", ["shroom"]),
     ("stair.svg", ["stair"]),
     ("fang.svg", ["fang", "tooth", "keel"]),
@@ -20,7 +18,6 @@ entries = [
     ("leaf.svg", ["leaf", "maple"]),
     ("rook.svg", ["rook"]),
     ("knight.svg", ["knight", "horse"]),
-    ("pawn.svg", ["pawn"]),
     ("meeple.svg", ["meeple", "dude", "gal", "guy"]),
     ("singer.svg", ["singer"]),
 ]

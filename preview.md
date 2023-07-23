@@ -64,17 +64,6 @@
 <img src="svgs/pail.svg" width=5 height=5/>
 
 
-# `flake, snow`
-
-<img src="svgs/flake.svg" width=200 height=200/>
-<img src="svgs/flake.svg" width=10 height=10/>
-<img src="svgs/flake.svg" width=9 height=9/>
-<img src="svgs/flake.svg" width=8 height=8/>
-<img src="svgs/flake.svg" width=7 height=7/>
-<img src="svgs/flake.svg" width=6 height=6/>
-<img src="svgs/flake.svg" width=5 height=5/>
-
-
 # `horn, claw`
 
 <img src="svgs/horn.svg" width=200 height=200/>
@@ -95,17 +84,6 @@
 <img src="svgs/moon.svg" width=7 height=7/>
 <img src="svgs/moon.svg" width=6 height=6/>
 <img src="svgs/moon.svg" width=5 height=5/>
-
-
-# `tree`
-
-<img src="svgs/tree.svg" width=200 height=200/>
-<img src="svgs/tree.svg" width=10 height=10/>
-<img src="svgs/tree.svg" width=9 height=9/>
-<img src="svgs/tree.svg" width=8 height=8/>
-<img src="svgs/tree.svg" width=7 height=7/>
-<img src="svgs/tree.svg" width=6 height=6/>
-<img src="svgs/tree.svg" width=5 height=5/>
 
 
 # `shroom`
@@ -152,7 +130,7 @@
 <img src="svgs/wave.svg" width=5 height=5/>
 
 
-# `leaf, maple`
+# `leaf, spade`
 
 <img src="svgs/leaf.svg" width=200 height=200/>
 <img src="svgs/leaf.svg" width=10 height=10/>
@@ -183,17 +161,6 @@
 <img src="svgs/knight.svg" width=7 height=7/>
 <img src="svgs/knight.svg" width=6 height=6/>
 <img src="svgs/knight.svg" width=5 height=5/>
-
-
-# `pawn`
-
-<img src="svgs/pawn.svg" width=200 height=200/>
-<img src="svgs/pawn.svg" width=10 height=10/>
-<img src="svgs/pawn.svg" width=9 height=9/>
-<img src="svgs/pawn.svg" width=8 height=8/>
-<img src="svgs/pawn.svg" width=7 height=7/>
-<img src="svgs/pawn.svg" width=6 height=6/>
-<img src="svgs/pawn.svg" width=5 height=5/>
 
 
 # `meeple, dude, gal, guy`
