@@ -64,7 +64,7 @@
 <img src="svgs/pail.svg" width=5 height=5/>
 
 
-# `horn, claw`
+# `horn, claw, smile`
 
 <img src="svgs/horn.svg" width=200 height=200/>
 <img src="svgs/horn.svg" width=10 height=10/>

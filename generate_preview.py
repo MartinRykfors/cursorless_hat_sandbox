@@ -9,7 +9,7 @@ entries = [
     ("bridge.svg", ["bridge"]),
     ("fez.svg", ["fez"]),
     ("pail.svg", ["pail", "vase"]),
-    ("horn.svg", ["horn", "claw"]),
+    ("horn.svg", ["horn", "claw", "smile"]),
     ("moon.svg", ["moon", "lune", "luna"]),
     ("shroom.svg", ["shroom"]),
     ("stair.svg", ["stair"]),
