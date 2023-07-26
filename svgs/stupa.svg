@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="60mm"
    height="40mm"
    viewBox="0 0 60 40"
    version="1.1"
    id="SVGRoot"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="stupa.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="stupa.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs5397">
     <inkscape:path-effect
@@ -38,16 +38,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.3866667"
-     inkscape:cx="75.590551"
-     inkscape:cy="75.590551"
+     inkscape:cx="75.738188"
+     inkscape:cy="75.738188"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2488"
-     inkscape:window-height="1376"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="2530"
+     inkscape:window-height="1313"
+     inkscape:window-x="10"
+     inkscape:window-y="64"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5400">
     <rdf:RDF>
@@ -56,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,12 +67,12 @@
      id="layer1">
     <path
        transform="matrix(1.5694423,0,0,1.0672847,-30.497186,-229.24044)"
-       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 38.576175,252.17857 -18.902804,-5e-5 c 0.100883,-10.36445 3.997215,-16.27205 14.747983,-19.19332 0.756803,-6.19344 2.125161,-14.87857 4.154821,-17.96124 2.02966,3.08267 3.398018,11.7678 4.154821,17.96124 10.750768,2.92127 14.6471,8.82887 14.747983,19.19332 z"
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 38.576175,252.17857 -18.902804,-5e-5 c 0.100883,-10.36445 2.081362,-18.04553 12.83213,-20.9668 0.807312,-14.95163 4.006807,-13.30156 6.070674,-16.1912 2.063867,2.88964 5.263362,1.23957 6.070674,16.1912 10.750768,2.92127 12.731247,10.60235 12.83213,20.9668 z"
        id="path4757"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
        inkscape:path-effect="#path-effect4761"
-       inkscape:original-d="m 39.072269,252.17857 -19.398898,-5e-5 c 0.100883,-10.36445 3.997215,-16.27205 14.747983,-19.19332 0.763945,-6.25188 2.151041,-15.04271 4.212457,-18.04701" />
+       inkscape:original-d="m 39.072269,252.17857 -19.398898,-5e-5 c 0.100883,-10.36445 2.081362,-18.04553 12.83213,-20.9668 0.814866,-15.09154 4.066894,-13.26923 6.12831,-16.27353" />
   </g>
 </svg>
