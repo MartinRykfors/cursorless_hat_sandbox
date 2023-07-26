@@ -25,13 +25,13 @@ The following files in the cursorless repo need to be edited to make use of the 
 
 ```
 .vscode/settings.json
-cursorless-talon/src/marks/mark.py
-packages/common/src/types/command/legacy/CommandV0V1.types.ts
-packages/common/src/types/command/legacy/PartialTargetDescriptorV3.types.ts
-packages/common/src/types/command/legacy/targetDescriptorV2.types.ts
-packages/cursorless-vscode/package.json
-packages/cursorless-vscode/src/ide/vscode/hatStyles.types.ts
-packages/cursorless-vscode/src/ide/vscode/hats/shapeAdjustments.ts
+cursorless-talon/src/marks/mark.py                                               3 places
+packages/common/src/types/command/legacy/CommandV0V1.types.ts                    1 place
+packages/common/src/types/command/legacy/PartialTargetDescriptorV3.types.ts      1 place
+packages/common/src/types/command/legacy/targetDescriptorV2.types.ts             1 place
+packages/cursorless-vscode/package.json                                          6 places
+packages/cursorless-vscode/src/ide/vscode/hatStyles.types.ts                     1 place
+packages/cursorless-vscode/src/ide/vscode/hats/shapeAdjustments.ts               1 place
 ```
 
 Some of the files need to be edited in multiple places. Find the places where the hats are specified (by searching for `bolt` for instance) and make the appropriate additions.
