@@ -3,7 +3,6 @@ import airium
 
 
 entries = [
-    ("bone.svg", ["bone"]),
     ("bridge.svg", ["bridge"]),
     ("church.svg", ["church"]),
     ("gate.svg", ["gate"]),
@@ -24,6 +23,7 @@ entries = [
     ("star.svg", ["star", "astro", "astri"]),
     ("stupa.svg", ["stupa", "stup"]),
     ("wave.svg", ["wave"]),
+    ("wrench.svg", ["wrench"]),
 ]
 sizes = [200] + list(reversed(range(5, 11)))
 

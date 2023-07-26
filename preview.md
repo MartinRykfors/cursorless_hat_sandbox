@@ -1,14 +1,3 @@
-# `bone`
-
-<img src="svgs/bone.svg" width=200 height=200/>
-<img src="svgs/bone.svg" width=10 height=10/>
-<img src="svgs/bone.svg" width=9 height=9/>
-<img src="svgs/bone.svg" width=8 height=8/>
-<img src="svgs/bone.svg" width=7 height=7/>
-<img src="svgs/bone.svg" width=6 height=6/>
-<img src="svgs/bone.svg" width=5 height=5/>
-
-
 # `bridge`
 
 <img src="svgs/bridge.svg" width=200 height=200/>
@@ -227,5 +216,16 @@
 <img src="svgs/wave.svg" width=7 height=7/>
 <img src="svgs/wave.svg" width=6 height=6/>
 <img src="svgs/wave.svg" width=5 height=5/>
+
+
+# `wrench`
+
+<img src="svgs/wrench.svg" width=200 height=200/>
+<img src="svgs/wrench.svg" width=10 height=10/>
+<img src="svgs/wrench.svg" width=9 height=9/>
+<img src="svgs/wrench.svg" width=8 height=8/>
+<img src="svgs/wrench.svg" width=7 height=7/>
+<img src="svgs/wrench.svg" width=6 height=6/>
+<img src="svgs/wrench.svg" width=5 height=5/>
 
 
