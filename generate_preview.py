@@ -3,6 +3,7 @@ import airium
 
 
 entries = [
+    ("bone.svg", ["bone"]),
     ("bridge.svg", ["bridge"]),
     ("church.svg", ["church"]),
     ("gate.svg", ["gate"]),
