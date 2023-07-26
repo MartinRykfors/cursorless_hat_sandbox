@@ -17,7 +17,7 @@ entries = [
     ("mosque.svg", ["mosque"]),
     ("pail.svg", ["pail", "vase"]),
     ("rook.svg", ["rook"]),
-    ("shroom.svg", ["shroom"]),
+    ("shroom.svg", ["shroom", "tree", "boom"]),
     ("singer.svg", ["singer"]),
     ("stair.svg", ["stair", "step"]),
     ("star.svg", ["star", "astro", "astri"]),
