@@ -3,8 +3,7 @@ build :
 
 .PHONY : all
 all : build
-	find svgs -name '*.svg' -printf "%f\n" | xargs -I{} scour -i svgs/{} -o build/{} --remove-metadata
-
+	find svgs -name '*.svg' -printf "%f\n" | xargs -I{} scour -i svgs/{} -o build/{} --remove-metadata --strip-xml-prolog
 .PHONY : clean
 clean :
 	rm -r build && rm preview.html
