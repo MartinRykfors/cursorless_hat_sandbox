@@ -1,4 +1,4 @@
-# `bridge`
+# `bridge, rail, bone`
 
 <img src="svgs/bridge.svg" width=200 height=200/>
 <img src="svgs/bridge.svg" width=10 height=10/>
@@ -130,7 +130,7 @@
 <img src="svgs/mosque.svg" width=5 height=5/>
 
 
-# `pail, vase`
+# `pail, vase, urn`
 
 <img src="svgs/pail.svg" width=200 height=200/>
 <img src="svgs/pail.svg" width=10 height=10/>
@@ -152,7 +152,7 @@
 <img src="svgs/rook.svg" width=5 height=5/>
 
 
-# `shroom`
+# `shroom, tree, boom`
 
 <img src="svgs/shroom.svg" width=200 height=200/>
 <img src="svgs/shroom.svg" width=10 height=10/>

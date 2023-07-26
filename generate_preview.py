@@ -3,7 +3,7 @@ import airium
 
 
 entries = [
-    ("bridge.svg", ["bridge"]),
+    ("bridge.svg", ["bridge", "rail", "bone"]),
     ("church.svg", ["church"]),
     ("gate.svg", ["gate"]),
     ("fang.svg", ["fang", "tooth", "keel"]),
@@ -15,10 +15,10 @@ entries = [
     ("meeple.svg", ["meeple", "dude", "gal", "guy"]),
     ("moon.svg", ["moon", "lune", "luna"]),
     ("mosque.svg", ["mosque"]),
-    ("pail.svg", ["pail", "vase"]),
+    ("pail.svg", ["pail", "vase", "urn"]),
     ("rook.svg", ["rook"]),
     ("shroom.svg", ["shroom", "tree", "boom"]),
-    ("singer.svg", ["singer"]),
+    ("singer.svg", ["singer", "sew"]),
     ("stair.svg", ["stair", "step"]),
     ("star.svg", ["star", "astro", "astri"]),
     ("stupa.svg", ["stupa", "stup"]),
