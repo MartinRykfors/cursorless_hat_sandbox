@@ -3,23 +3,26 @@ import airium
 
 
 entries = [
-    ("church.svg", ["church"]),
-    ("mosque.svg", ["mosque"]),
-    ("stupa.svg", ["stupa", "stup"]),
     ("bridge.svg", ["bridge"]),
-    ("fez.svg", ["fez"]),
-    ("pail.svg", ["pail", "vase"]),
-    ("horn.svg", ["horn", "claw", "smile"]),
-    ("moon.svg", ["moon", "lune", "luna"]),
-    ("shroom.svg", ["shroom"]),
-    ("stair.svg", ["stair"]),
+    ("church.svg", ["church"]),
+    ("gate.svg", ["gate"]),
     ("fang.svg", ["fang", "tooth", "keel"]),
-    ("wave.svg", ["wave"]),
-    ("leaf.svg", ["leaf", "spade"]),
-    ("rook.svg", ["rook"]),
+    ("fez.svg", ["fez", "hat", "cone"]),
+    ("gem.svg", ["gem"]),
+    ("horn.svg", ["horn", "claw", "smile"]),
     ("knight.svg", ["knight", "horse"]),
+    ("leaf.svg", ["leaf", "spade"]),
     ("meeple.svg", ["meeple", "dude", "gal", "guy"]),
+    ("moon.svg", ["moon", "lune", "luna"]),
+    ("mosque.svg", ["mosque"]),
+    ("pail.svg", ["pail", "vase"]),
+    ("rook.svg", ["rook"]),
+    ("shroom.svg", ["shroom"]),
     ("singer.svg", ["singer"]),
+    ("stair.svg", ["stair", "step"]),
+    ("star.svg", ["star", "astro", "astri"]),
+    ("stupa.svg", ["stupa", "stup"]),
+    ("wave.svg", ["wave"]),
 ]
 sizes = [200] + list(reversed(range(5, 11)))
 
