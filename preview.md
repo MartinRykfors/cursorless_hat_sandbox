@@ -152,7 +152,7 @@
 <img src="svgs/rook.svg" width=5 height=5/>
 
 
-# `shroom, tree, boom`
+# `shroom, tree, boom, fret`
 
 <img src="svgs/shroom.svg" width=200 height=200/>
 <img src="svgs/shroom.svg" width=10 height=10/>
@@ -163,7 +163,7 @@
 <img src="svgs/shroom.svg" width=5 height=5/>
 
 
-# `singer`
+# `singer, sew`
 
 <img src="svgs/singer.svg" width=200 height=200/>
 <img src="svgs/singer.svg" width=10 height=10/>
