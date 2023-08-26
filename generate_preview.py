@@ -7,7 +7,7 @@ entries = [
     ("church.svg", ["church"]),
     ("gate.svg", ["gate"]),
     ("fang.svg", ["fang", "tooth", "keel"]),
-    ("fez.svg", ["fez", "hat", "cone"]),
+    ("cone.svg", ["cone", "hat", "fez"]),
     ("gem.svg", ["gem"]),
     ("horn.svg", ["horn", "claw", "smile"]),
     ("knight.svg", ["knight", "horse"]),
