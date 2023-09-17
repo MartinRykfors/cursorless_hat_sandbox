@@ -7,7 +7,21 @@ pip install -r requirements.txt
 make serve
 ```
 
+
+
 Then visit [localhost:8000/preview.html](localhost:8000/preview.html) to see the different hats and how they look at different scales.
+
+# Building
+
+Requires Inkscape installed on your system with the [Apply Transforms](https://github.com/Klowner/inkscape-applytransforms/) extension installed.
+
+Then running
+
+```
+make all
+```
+
+Should create built svgs in the `build` directory.
 
 # Installing into cursorless
 
